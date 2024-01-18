@@ -65,7 +65,6 @@ public class Main {
         //найти второй наибольший и второй наименьший элемент
         List<Integer> finalNums = nums;
         System.out.println(nums.stream()
-
         );
 
         Country france = new Country("France", 65_235_184L);
